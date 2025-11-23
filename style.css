@@ -1,0 +1,15 @@
+table, th, td {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 1px solid black;
+    width: auto;
+    height: auto;
+}
+
+td{
+    padding: 10dvi;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: bolder;
+}
